@@ -1,0 +1,552 @@
+Uri: https://analytics-eu.clickdimensions.com/ts.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\ts.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/picturefill/2.3.1/picturefill.min.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\picturefill\2.3.1\picturefill.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\ajax\libs\list.js\1.5.0\list.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.21/jquery.scrollify.min.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\ajax\libs\scrollify\1.0.21\jquery.scrollify.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\ajax\libs\select2\4.0.6-rc.0\css\select2.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\ajax\libs\select2\4.0.6-rc.0\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://cms.ramadanseason.sa/uploads/instagram_e4ee6550df.svg
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\uploads\instagram_e4ee6550df.svg
+Content Type: image/svg+xml
+
+Uri: https://cms.ramadanseason.sa/uploads/MOC_f95b86c156.svg
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\uploads\MOC_f95b86c156.svg
+Content Type: image/svg+xml
+
+Uri: https://cms.ramadanseason.sa/uploads/twitter_2b23cfc5b6.svg
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\uploads\twitter_2b23cfc5b6.svg
+Content Type: image/svg+xml
+
+Uri: https://code.jquery.com/jquery-1.12.4.min.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://purecatamphetamine.github.io/country-flag-icons/3x2/SA.svg
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\country-flag-icons\3x2\SA.svg
+Content Type: image/svg+xml
+
+Uri: https://ramadanseason.sa/dga.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\dga.png
+Content Type: image/png
+
+Uri: https://ramadanseason.sa/events
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\events.html
+Content Type: text/html
+
+Uri: https://ramadanseason.sa/favico/RS_P.ico
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\favico\RS_P.ico
+Content Type: image/x-icon
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F1_9e7cdb0cae.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\1_9e7cdb0cae-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F1_9e7cdb0cae.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\1_9e7cdb0cae.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F1_bdbaff6a27.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\1_bdbaff6a27-5.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F1_bdbaff6a27.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\1_bdbaff6a27-6.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F1_bdbaff6a27.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\1_bdbaff6a27-7.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F1_bdbaff6a27.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\1_bdbaff6a27-8.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F1_bdbaff6a27.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\1_bdbaff6a27-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F1_bdbaff6a27.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\1_bdbaff6a27-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F1_bdbaff6a27.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\1_bdbaff6a27-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F1_bdbaff6a27.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\1_bdbaff6a27.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F1_bdbaff6a27.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\1_bdbaff6a27-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F2_16ddd48d5c.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\2_16ddd48d5c-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2F2_16ddd48d5c.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\2_16ddd48d5c.jpeg
+Content Type: image/jpeg
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2Faahjz_8840bcefe3.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\aahjz_8840bcefe3.png
+Content Type: image/png
+
+Uri: https://ramadanseason.sa/_next/image?url=https:%2F%2Fcms.ramadanseason.sa%2Fuploads%2Faahjz_8840bcefe3.png&w=96&q=75
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\aahjz_8840bcefe3-1.png
+Content Type: image/png
+
+Uri: https://ramadanseason.sa/_next/static/chunks/324-3809fbf3eebc2625.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\chunks\324-3809fbf3eebc2625.js
+Content Type: application/javascript
+
+Uri: https://ramadanseason.sa/_next/static/chunks/773-43aec7e387a861f8.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\chunks\773-43aec7e387a861f8.js
+Content Type: application/javascript
+
+Uri: https://ramadanseason.sa/_next/static/chunks/94726e6d-6ec9e8f193b042a3.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\chunks\94726e6d-6ec9e8f193b042a3.js
+Content Type: application/javascript
+
+Uri: https://ramadanseason.sa/_next/static/chunks/framework-2c79e2a64abdb08b.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\chunks\framework-2c79e2a64abdb08b.js
+Content Type: application/javascript
+
+Uri: https://ramadanseason.sa/_next/static/chunks/main-62dff5cbfa58ac15.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\chunks\main-62dff5cbfa58ac15.js
+Content Type: application/javascript
+
+Uri: https://ramadanseason.sa/_next/static/chunks/pages/events-981cb819ce907d7b.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\chunks\pages\events-981cb819ce907d7b.js
+Content Type: application/javascript
+
+Uri: https://ramadanseason.sa/_next/static/chunks/pages/_app-7fd15b3d4e5db365.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\chunks\pages\_app-7fd15b3d4e5db365.js
+Content Type: application/javascript
+
+Uri: https://ramadanseason.sa/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://ramadanseason.sa/_next/static/chunks/webpack-6ef43a8d4a395f49.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\chunks\webpack-6ef43a8d4a395f49.js
+Content Type: application/javascript
+
+Uri: https://ramadanseason.sa/_next/static/css/6d73aac0f00cdd70.css
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\css\6d73aac0f00cdd70.css
+Content Type: text/css
+
+Uri: https://ramadanseason.sa/_next/static/css/830f4bd8fccac276.css
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\css\830f4bd8fccac276.css
+Content Type: text/css
+
+Uri: https://ramadanseason.sa/_next/static/OUS9PeKZJDwZINrlxwGOx/_buildManifest.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\OUS9PeKZJDwZINrlxwGOx\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://ramadanseason.sa/_next/static/OUS9PeKZJDwZINrlxwGOx/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\_next\static\OUS9PeKZJDwZINrlxwGOx\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-141667814-1
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.moc.gov.sa/ar/Media-center
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\ar\Media-center
+Content Type: text/html
+
+Uri: https://www.moc.gov.sa/sites/default/files/2021-05/princ-bader-bw-2 copy_0.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2021-05\princ-bader-bw-2 copy_0.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-01/BGFlagnd_0 - Copy.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-01\BGFlagnd_0 - Copy.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-01/GreenBGnoWhitend.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-01\GreenBGnoWhitend.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-01/princ-bader-bw-2 copy_0.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-01\princ-bader-bw-2 copy_0.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-08/MOC21_1.pdf
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-08\MOC21_1.pdf
+Content Type: application/pdf
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-08/Screen Shot 2022-08-14 at 12.12.52 PM.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-08\Screen Shot 2022-08-14 at 12.12.52 PM.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-10/report-2021.pdf
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-10\report-2021.pdf
+Content Type: application/pdf
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-10/report2021-cover.PNG
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-10\report2021-cover.PNG
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-11/ADC-LOGO.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-11\ADC-LOGO.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-11/CAC-LOGO.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-11\CAC-LOGO.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-11/FC-LOGO.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-11\FC-LOGO.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-11/FIC-LOGO.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-11\FIC-LOGO.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-11/HC-LOGO.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-11\HC-LOGO.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-11/LC-LOGO.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-11\LC-LOGO.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-11/LPTC-LOGO.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-11\LPTC-LOGO.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-11/MUSC-LOGO.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-11\MUSC-LOGO.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-11/MUSE-LOGO.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-11\MUSE-LOGO.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-11/TPAC-LOGO.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-11\TPAC-LOGO.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-11/VAC-LOGO.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-11\VAC-LOGO.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-12/Genz.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-12\Genz.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2022-12/genz22.pdf
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2022-12\genz22.pdf
+Content Type: application/pdf
+
+Uri: https://www.moc.gov.sa/sites/default/files/2023-03/موسم رمضان الشعار _1.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2023-03\موسم رمضان الشعار _1.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/2023-03/FsGM98GWYAAKwET (1).jpg
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2023-03\FsGM98GWYAAKwET (1).jpg
+Content Type: image/jpeg
+
+Uri: https://www.moc.gov.sa/sites/default/files/2023-04/موسم رمضان الشعار .png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\2023-04\موسم رمضان الشعار .png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/css/css_H4YhFlmdMhOaE54JM-btH-B1SRKft8tss2EHa7aOq_Q.css?rpm0s6
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\css\css_H4YhFlmdMhOaE54JM-btH-B1SRKft8tss2EHa7aOq_Q.css
+Content Type: text/css
+
+Uri: https://www.moc.gov.sa/sites/default/files/css/css_rT06N1hzNwWZvlauEGw5ZNFVKBrR23ibx56HC8Lyx4M.css?rpm0s6
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\css\css_rT06N1hzNwWZvlauEGw5ZNFVKBrR23ibx56HC8Lyx4M.css
+Content Type: text/css
+
+Uri: https://www.moc.gov.sa/sites/default/files/css/css_sjt5NQdyjvzctf9aLfwi_TLrR4wM52V5T9ahizy1PFY.css?rpm0s6
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\css\css_sjt5NQdyjvzctf9aLfwi_TLrR4wM52V5T9ahizy1PFY.css
+Content Type: text/css
+
+Uri: https://www.moc.gov.sa/sites/default/files/favicon.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\favicon.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/sites/default/files/js/js_ARxFDkYGJWR-F64CVuQ6drG4x_N8ZCNrxfiaD3golEc.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\js\js_ARxFDkYGJWR-F64CVuQ6drG4x_N8ZCNrxfiaD3golEc.js
+Content Type: text/javascript
+
+Uri: https://www.moc.gov.sa/sites/default/files/js/js_ngegCKpbUK1ts1YufyjNmACq6UcFMxH_9EdoRjT65dg.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\js\js_ngegCKpbUK1ts1YufyjNmACq6UcFMxH_9EdoRjT65dg.js
+Content Type: text/javascript
+
+Uri: https://www.moc.gov.sa/sites/default/files/js/js_RHD05Kn8qWQ5_9oNALLBXdKDByK2mlYDF6ookYnWquk.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\js\js_RHD05Kn8qWQ5_9oNALLBXdKDByK2mlYDF6ookYnWquk.js
+Content Type: text/javascript
+
+Uri: https://www.moc.gov.sa/sites/default/files/js/js_VwisVL78aiVLsEzmRhxpU8c1yPLdajqcnQWMg78PyzU.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\js\js_VwisVL78aiVLsEzmRhxpU8c1yPLdajqcnQWMg78PyzU.js
+Content Type: text/javascript
+
+Uri: https://www.moc.gov.sa/sites/default/files/js/js_Z0NGGequlY3cLl6XjQqnaTVy3OAvlgAJIHSuUdgM5SI.js
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\sites\default\files\js\js_Z0NGGequlY3cLl6XjQqnaTVy3OAvlgAJIHSuUdgM5SI.js
+Content Type: text/javascript
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/ionicons.eot?v=2.0.0
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/ionicons.svg?v=2.0.0
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/ionicons.ttf?v=2.0.0
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\ionicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/ionicons.woff?v=2.0.0
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\ionicons.woff
+Content Type: application/font-woff
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/lg.eot
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/lg.svg
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/lg.ttf
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\lg.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/lg.woff
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\lg.woff
+Content Type: application/font-woff
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/moc-ico/fonts/moc.eot
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\moc-ico\fonts\moc.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/moc-ico/fonts/moc.svg
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\moc-ico\fonts\moc.svg
+Content Type: image/svg+xml
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/moc-ico/fonts/moc.ttf
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\moc-ico\fonts\moc.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/moc-ico/fonts/moc.woff
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\moc-ico\fonts\moc.woff
+Content Type: application/font-woff
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/moc/Effra_WArbc_Md.woff
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\moc\Effra_WArbc_Md.woff
+Content Type: application/font-woff
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/moc/Effra_WArbc_Rg.woff
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\moc\Effra_WArbc_Rg.woff
+Content Type: application/font-woff
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/moc/Effra_W_Md.woff
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\moc\Effra_W_Md.woff
+Content Type: application/font-woff
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/fonts/moc/Effra_W_Rg.woff
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\fonts\moc\Effra_W_Rg.woff
+Content Type: application/font-woff
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg-about-ar.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg-about-ar.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg-about.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg-about.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg-boxes-ar.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg-boxes-ar.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg-boxes.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg-boxes.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg-default.jpg
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg-default.jpg
+Content Type: image/jpeg
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg-lines-l-r.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg-lines-l-r.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg1.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg1.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg2.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg2.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg3.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg3.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg4.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg4.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg5.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg5.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg6.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg6.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/bg7.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\bg7.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/boxes1-affect-ar.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\boxes1-affect-ar.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/boxes1-affect.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\boxes1-affect.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/boxes2-affect-ar.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\boxes2-affect-ar.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/boxes2-affect.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\boxes2-affect.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/boxes2-ar.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\boxes2-ar.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/boxes2.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\boxes2.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/fullscreen.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\fullscreen.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/Hamed-bw-ar.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\Hamed-bw-ar.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/Hamed-bw.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\Hamed-bw.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/loader.gif
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\loader.gif
+Content Type: image/gif
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/logo_dark.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\logo_dark.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/moc-1.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\moc-1.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/moc-lines.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\moc-lines.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/prince-bader-bw-ar.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\prince-bader-bw-ar.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/prince-bader-bw.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\prince-bader-bw.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/prince-bader2-2.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\prince-bader2-2.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/prince-bader2.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\prince-bader2.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/vice2-2-home.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\vice2-2-home.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/vice2-home.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\vice2-home.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/img/vision2030-white.png
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\img\vision2030-white.png
+Content Type: image/png
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/new-calendar/calendar.js?rpm0s6
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\new-calendar\calendar.js
+Content Type: text/javascript
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\slick\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.moc.gov.sa/themes/custom/moc/assets/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\ramadanseason.sa\themes\custom\moc\assets\slick\fonts\slick.woff
+Content Type: application/font-woff
+
